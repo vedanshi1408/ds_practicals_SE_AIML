@@ -1,0 +1,14 @@
+Enter number of online orders: 7
+Enter delivery time (minutes): 30
+Enter delivery time (minutes): 50
+Enter delivery time (minutes): 45
+Enter delivery time (minutes): 15
+Enter delivery time (minutes): 35
+Enter delivery time (minutes): 25
+Enter delivery time (minutes): 20
+
+Original Delivery Times:
+[30, 50, 45, 15, 35, 25, 20]
+
+Sorted Delivery Times (Quickest First):
+[15, 20, 25, 30, 35, 45, 50]
