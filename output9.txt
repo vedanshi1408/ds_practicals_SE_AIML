@@ -1,0 +1,7 @@
+Enter Text: AABAACAADAABAABA
+Enter Pattern: AABA
+
+Pattern found at index:
+0
+9
+12
