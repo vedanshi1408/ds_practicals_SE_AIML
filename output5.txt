@@ -1,0 +1,31 @@
+1. Prim's Algorithm
+2. Kruskal's Algorithm
+3. Exit
+Enter Choice: 1
+
+Minimum Spanning Tree using Prim's Algorithm
+
+AIML -- Computer = 2
+Computer -- ENTC = 3
+Computer -- Civil = 5
+AIML -- Mechanical = 6
+Minimum Cost = 16
+
+1. Prim's Algorithm
+2. Kruskal's Algorithm
+3. Exit
+Enter Choice: 2
+
+Minimum Spanning Tree using Kruskal's Algorithm
+
+AIML -- Computer = 2
+Computer -- ENTC = 3
+Computer -- Civil = 5
+AIML -- Mechanical = 6
+Minimum Cost = 16
+
+1. Prim's Algorithm
+2. Kruskal's Algorithm
+3. Exit
+Enter Choice: 3
+Program Ended
