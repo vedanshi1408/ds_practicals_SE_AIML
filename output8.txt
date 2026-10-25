@@ -1,0 +1,17 @@
+Enter number of parcels: 4
+Enter weight: 30
+Enter profit: 90
+Enter weight: 40
+Enter profit: 100
+Enter weight: 50
+Enter profit: 120
+Enter weight: 20
+Enter profit: 60
+Enter truck capacity: 80
+
+Selected Parcels:
+Full Parcel -> Weight: 30.0 Profit: 90.0
+Full Parcel -> Weight: 20.0 Profit: 60.0
+Partial Parcel -> Weight: 30.0 Profit: 75.0
+
+Maximum Profit = 225.0
